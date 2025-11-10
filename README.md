@@ -18,10 +18,15 @@ INNOVATION:
 
 CORE FEATURES:
 •	Comprehensive Data Collection: Captures repository metadata, file structures, commits, pull requests, issues, contributor activities, and README embeddings at scale.
+
 •	Intelligent Text Summarization: Uses state-of-the-art NLP models to generate concise repo purpose summaries from documentation.
+
 •	Semantic Clustering & Trend Forecasting: Groups related repos and predicts future activity with KMeans, DBSCAN, LSTM, and ARIMA models.
+
 •	Quantum ML Enhancements: Encodes data into quantum states for advanced classification and optimization, highlighting anomalous or risky repositories.
+
 •	Insight Generation: Auto-generates natural language summaries and visual reports for stakeholders to understand repo health, collaboration, and evolution.
+
 •	Scalable Infrastructure: Designed for cloud deployment (e.g., AWS), leveraging Kafka messaging, Neo4j graph databases, and serverless orchestration for high resilience and maintainability.
 
 
