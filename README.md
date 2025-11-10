@@ -1,8 +1,30 @@
-# MULTI-REPO-INSIGHT-GENERATOR
+![generated-image(10)](https://github.com/user-attachments/assets/5f96e3c7-13b4-4d2d-94ab-7e8d18d74e32)# MULTI-REPO-INSIGHT-GENERATOR
 MULTI-REPO ANALYSE AND INSIGHT GENERATOR: Hybrid + Quantum Inspired ML Analysis
 
 PROJECT OVERVIEW:
 In today’s dynamic open-source and enterprise landscapes, organizations manage extensive collections of repositories, creating significant challenges in understanding collective activity, purpose, and dependencies. Our project builds an autonomous, scalable system to transform opaque multi-repo data into clear, actionable insights through a dashboard with the help of  unique blend of classical and quantum machine learning techniques. It enables stakeholders to grasp the entire software ecosystem at a glance and make informed decisions.
+
+TECHNOLOGIES USED:
+
+
+Programming Languages: Python (for agents, ML models, backend), JavaScript/TypeScript (for dashboard frontend with React).
+
+Data Collection: GitHub REST and GraphQL APIs for repository data extraction.
+
+Message Queue: Apache Kafka for asynchronous, scalable communication between agents.
+
+
+Machine Learning Frameworks:
+
+  Classical ML: scikit-learn (clustering, forecasting), HuggingFace Transformers (NLP summarization), TensorFlow/PyTorch (LSTM/ARIMA models).
+
+  Quantum ML: Qiskit and PennyLane for quantum feature embedding, quantum kernel classification, and optimization algorithms.
+
+Databases: Neo4j graph database for storing repository relationships and visualizing networks.
+
+Visualization and Dashboard: React framework, Plotly.js library for dynamic interactive graphs and heatmaps.
+
+Cloud & DevOps (Future): AWS services including EC2/ECS, MSK (Managed Kafka), S3, SageMaker, Lambda, and EventBridge for scalable deployment and orchestration.
 
 
 INNOVATION:
