@@ -7,10 +7,15 @@ In today’s dynamic open-source and enterprise landscapes, organizations manage
 
 INNOVATION:
 •	Hybrid ML + Quantum ML Reasoning: Seamlessly combines mature classical ML models with cutting-edge Quantum Machine Learning (QML) algorithms (QSVM, QAOA) for deeper, faster multi-dimensional insights that traditional methods alone cannot achieve.
+
 •	Autonomous Multi-Agent Architecture: Distributed Repo Observer Agents individually connect to GitHub APIs, preprocess and stream data. A central Reasoning Agent intelligently clusters, forecasts, and detects anomalies across all repositories.
+
 •	Multi-Stage Modular Pipeline: Clearly segmented steps from observation through reasoning to visualization enable flexible iterations, rapid MVP development, and extensibility to future hosting or new analytics.
+
 •	Real-Time Incremental Learning: Continuous asynchronous communication and model retraining ensure the system adapts dynamically to freshly updated repositories, keeping insights current without redundant recomputation.
+
 •	Rich Visual Dashboards: Combines activity heatmaps, dependency graphs, contributor networks, and quantum complexity hotspots into a single unified interface tailored for interpretability and strategic decisions.
+
 CORE FEATURES:
 •	Comprehensive Data Collection: Captures repository metadata, file structures, commits, pull requests, issues, contributor activities, and README embeddings at scale.
 •	Intelligent Text Summarization: Uses state-of-the-art NLP models to generate concise repo purpose summaries from documentation.
